@@ -1,4 +1,4 @@
 {
-  field1: "Sample Field 1 Value"
-  field2: "Sample Field 2 Value"
+  "field1": "Sample Field 1 Value"
+  "field2": "Sample Field 2 Value"
 }
